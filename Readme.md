@@ -5,6 +5,8 @@ Chat Page
 * yarn or npm install to install dependency
 * node server.js // to run the server
 
+Same app is deployed on https://serene-savannah-52188.herokuapp.com/ for reference
+
 Code will be running at localhost:3000, Please check the same in the browser
 
 
@@ -49,3 +51,9 @@ As name suggests render renders the html and addEventListeners attaches all the 
 
 Since the msges are hardcoded, send some msg locally and search using that string on the home screen to filter out msges
 No data manipulation on the client side for time etc is done, we are expecting it to come from the server
+
+
+
+Pruthvi P
+pruthvip15@gmail.com
+9482894768
