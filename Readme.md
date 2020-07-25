@@ -55,5 +55,3 @@ No data manipulation on the client side for time etc is done, we are expecting i
 
 
 Pruthvi P
-pruthvip15@gmail.com
-9482894768
